@@ -1,5 +1,5 @@
-# Software-Verification
-Course project
+# Software-Verification  
+Course project  
 This project mainly let me understand hw verification via chisel3.
 
 The notebook (Test.ipynb) consists of three part:  
